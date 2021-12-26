@@ -10,3 +10,6 @@
 [submodule "iShop"]
 	path = iShop
 	url = https://github.com/OpenCommunity-Original/iShop
+[submodule "nab-configuration"]
+	path = nab-configuration
+	url = https://github.com/OpenCommunity-Original/nab-configuration

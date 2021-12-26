@@ -1,0 +1,12 @@
+[submodule "AntiCheatReloaded"]
+	path = AntiCheatReloaded
+	url = https://github.com/OpenCommunity-Original/AntiCheatReloaded
+[submodule "FarmControl"]
+	path = FarmControl
+	url = https://github.com/OpenCommunity-Original/FarmControl
+[submodule "ViewDistanceTweaks"]
+	path = ViewDistanceTweaks
+	url = https://github.com/OpenCommunity-Original/ViewDistanceTweaks
+[submodule "iShop"]
+	path = iShop
+	url = https://github.com/OpenCommunity-Original/iShop

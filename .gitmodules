@@ -13,3 +13,9 @@
 [submodule "nab-configuration"]
 	path = nab-configuration
 	url = https://github.com/OpenCommunity-Original/nab-configuration
+[submodule "Prism-Bukkit"]
+	path = Prism-Bukkit
+	url = https://github.com/OpenCommunity-Original/Prism-Bukkit
+[submodule "LibraryForME"]
+	path = LibraryForME
+	url = https://github.com/OpenCommunity-Original/LibraryForME

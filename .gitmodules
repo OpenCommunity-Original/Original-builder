@@ -19,3 +19,12 @@
 [submodule "LibraryForME"]
 	path = LibraryForME
 	url = https://github.com/OpenCommunity-Original/LibraryForME
+[submodule "OpenDeathMessages"]
+	path = OpenDeathMessages
+	url = https://github.com/OpenCommunity-Original/OpenDeathMessages
+[submodule "Retros-Lodestones"]
+	path = Retros-Lodestones
+	url = https://github.com/OpenCommunity-Original/Retros-Lodestones
+[submodule "squaremap"]
+	path = squaremap
+	url = https://github.com/OpenCommunity-Original/squaremap

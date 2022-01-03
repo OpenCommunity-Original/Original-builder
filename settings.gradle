@@ -1,4 +1,4 @@
 rootProject.name = 'Original-builder'
 
-include 'AntiCheatReloaded', 'FarmControl', 'iShop', 'ViewDistanceTweaks'
+include 'AntiCheatReloaded', 'FarmControl', 'iShop', 'ViewDistanceTweaks', 'Prism-Bukkit', 'LibraryForME', 'nab-configuration'
 

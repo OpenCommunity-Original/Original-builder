@@ -72,7 +72,7 @@
 	url = https://github.com/OpenCommunity-Original/GoodJoin
 [submodule "PlaceholderAPI"]
 	path = PlaceholderAPI
-	url = https://github.com/OpenCommunity-Original/PlaceholderAPI
+	url = https://github.com/PlaceholderAPI/PlaceholderAPI
 [submodule "Vault"]
 	path = Vault
 	url = https://github.com/OpenCommunity-Original/Vault

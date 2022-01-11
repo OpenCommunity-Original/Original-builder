@@ -17,6 +17,20 @@ println """
 ***************************************************
 """
 
+def serverversion = '1.18.1-R0.1-SNAPSHOT'
+
+repositories {
+    mavenLocal();
+    mavenCentral()
+    maven {
+        url = uri("https://papermc.io/repo/repository/maven-public/")
+    }
+}
+
+dependencies {
+    compileOnly "io.papermc.paper:paper-api:${serverversion}"
+}
+
 subprojects {
     apply plugin: 'java'
     apply plugin: 'maven-publish'

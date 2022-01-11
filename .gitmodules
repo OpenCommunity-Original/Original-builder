@@ -28,3 +28,45 @@
 [submodule "squaremap"]
 	path = squaremap
 	url = https://github.com/OpenCommunity-Original/squaremap
+[submodule "UltimateTimber"]
+	path = UltimateTimber
+	url = https://github.com/OpenCommunity-Original/UltimateTimber
+[submodule "CoreProtect"]
+	path = CoreProtect
+	url = https://github.com/OpenCommunity-Original/CoreProtect/
+[submodule "Walk-in-the-Park"]
+	path = Walk-in-the-Park
+	url = https://github.com/OpenCommunity-Original/Walk-in-the-Park
+[submodule "IllegalStack"]
+	path = IllegalStack
+	url = https://github.com/OpenCommunity-Original/IllegalStack
+[submodule "SimpleArmorStandPose"]
+	path = SimpleArmorStandPose
+	url = https://github.com/OpenCommunity-Original/SimpleArmorStandPose
+[submodule "PowerCamera"]
+	path = PowerCamera
+	url = https://github.com/OpenCommunity-Original/PowerCamera
+[submodule "OpenAntiRedstoneLag"]
+	path = OpenAntiRedstoneLag
+	url = https://github.com/OpenCommunity-Original/OpenAntiRedstoneLag
+[submodule "UltimateClaims"]
+	path = UltimateClaims
+	url = https://github.com/OpenCommunity-Original/UltimateClaims
+[submodule "SongodaCore"]
+	path = SongodaCore
+	url = https://github.com/OpenCommunity-Original/SongodaCore
+[submodule "Iris"]
+	path = Iris
+	url = https://github.com/OpenCommunity-Original/Iris
+[submodule "BetterPortals"]
+	path = BetterPortals
+	url = https://github.com/OpenCommunity-Original/BetterPortals
+[submodule "ChestSort"]
+	path = ChestSort
+	url = https://github.com/OpenCommunity-Original/ChestSort
+[submodule "Essentials"]
+	path = Essentials
+	url = https://github.com/OpenCommunity-Original/Essentials
+[submodule "GoodJoin"]
+	path = GoodJoin
+	url = https://github.com/OpenCommunity-Original/GoodJoin
